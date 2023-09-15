@@ -1,10 +1,13 @@
 import './App.css';
 
 function App() {
+
+  const name = "Breno"
+  
   return (
     <div className="App">
-      <h1>Olá React!</h1>
-      <p>Meu primeiro projeto</p>
+      <h1>Alterando o JSX</h1>
+      <p>Olá, {name}</p>
     </div>
   );
 }
