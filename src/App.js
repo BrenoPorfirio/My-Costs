@@ -11,6 +11,7 @@ function App() {
       <h1>Alterando o JSX</h1>
       <p>Olá, {name}</p>
       <p>Olá, {newName}</p>
+      <p>Soma: {19 + 19}</p>
     </div>
   );
 }
