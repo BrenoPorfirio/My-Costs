@@ -1,4 +1,4 @@
-function pharse () {
+function Pharse() {
     return (
         <div>
             <p>Este é um componente com uma frase</p>
@@ -6,4 +6,4 @@ function pharse () {
     )
 }
 
-export default pharse
+export default Pharse
